@@ -95,7 +95,7 @@
        <div style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://drive.google.com/uc?id=1VvMfcf5T0GsYHwWJyRytE_cx3Warnrzt">
+                        <img src="https://drive.google.com/uc?id=1P64ggOKLt-SlPpaZMI7hxB-NpklQqOFM">
                         <ul class="social">
                             <li><a href="#" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
