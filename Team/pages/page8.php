@@ -31,7 +31,7 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1VvMfcf5T0GsYHwWJyRytE_cx3Warnrzt">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/rahul.katamneni.94" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
                          <li><a href="#" class="fa fa-linkedin"></a></li>
@@ -51,10 +51,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://m.facebook.com/Kalyan.Nani01" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/kalyan_0198/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/kalyan-boya-622711145" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -95,13 +95,13 @@
        <div style="margin:10px;width:220px;">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://drive.google.com/uc?id=1P64ggOKLt-SlPpaZMI7hxB-NpklQqOFM">
+                        <img src="https://drive.google.com/uc?id=1VvMfcf5T0GsYHwWJyRytE_cx3Warnrzt">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://m.facebook.com/mohan.sai.9028" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                             <li><a href="#" class="fa fa-instagram"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
-                        </ul>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/mohan-sai-paidi-885a84145" class="fa fa-linkedin"></a></li>
+                        </ul> 
                     </div>
                     <div class="team-content">
                         <h3 class="title">Paidi Mohan Sai</h3>

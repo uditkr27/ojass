@@ -12,10 +12,10 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=18ThS5VNOVqKVqNKUqYqGlKAt3Zysbl7L">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100003816556801" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/pavanguntupally12/" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/pavan-kumar-guntupalli-6436aa130" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                     <div class="team-content">
@@ -52,7 +52,7 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1yIC9vu7nMZuSiP-GIkQSLiPwrLI61gRo">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100008242112637" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                             <li><a href="#" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
@@ -75,10 +75,10 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1mqhEhj2YkQk8hHnTEEFcXojSOeSRJwtn">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/raamansai" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
+                            <li><a target="_blank" href="#" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/raaman-kilaru" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                     <div class="team-content">

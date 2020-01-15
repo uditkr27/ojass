@@ -73,10 +73,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1wvqmAaNth0BY5fG6VspL1SsKrvffOaEm">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/kumar.naman.707" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/kumar-naman-55b356128" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">

@@ -11,7 +11,7 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1MFimN5E0csD9VTXaz-_-rEcsGQuHI4TI">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100013646169905" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
                          <li><a href="#" class="fa fa-linkedin"></a></li>
@@ -51,10 +51,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1dYYH0_0veROcScPXqYcUR7mDk5RDzG8-">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://m.facebook.com/amar.gaikwad.16144" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/amararjungaikwad/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/amar-arjun-gaikwad-76b517141" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">

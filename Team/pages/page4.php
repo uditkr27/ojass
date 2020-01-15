@@ -12,9 +12,9 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1r0PnQSCOUgo7Ay9ID8Yx1uTuCGT0oo9C">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100009340620995" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/a_crazy_saint0/" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
@@ -32,9 +32,9 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1OO1JHid54Uw5JjcL0QNc8u8AHA3Jzdu5">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/divyansh.rock.56" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/invites/contact/?i=1fxcsrks5mlqi&utm_content=1kdvpxd" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
@@ -52,7 +52,7 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=12xitj5-GsOuaZEHGN5jwCd70dIP2-GmV">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/kishore.nayak.14289" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                             <li><a href="#" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
@@ -71,7 +71,7 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1pbHtBjxGSmf-4S6PpBSPWyMR_GeK8V3r">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://m.facebook.com/gaurav.mridul?ref=bookmarks" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                             <li><a href="#" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>
@@ -107,10 +107,10 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1_HRZKH0Gu94khdBxYPGUesw9Hxa9yGs1">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://m.facebook.com/nivedita.gupta.73?ref=bookmarks" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/nivedita.apr21/" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/nivedita-gupta-b91980a6" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                     <div class="team-content">
@@ -129,10 +129,10 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1IpkZtWJfsZ7zicXpI1fBhOeZupb0oo6S">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/usha.rawani.3" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                            <li><a href="#" class="fa fa-instagram"></a></li>
-                            <li><a href="#" class="fa fa-linkedin"></a></li>
+                            <li><a  target="_blank" href="https://www.instagram.com/day_spring23/" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/in/usha-kumari-09aa6a152/" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                     <div class="team-content">

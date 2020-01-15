@@ -11,10 +11,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1dqUwz4mubgMmLuY1Rbd3Ae8JavWCj9rY">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/syedsahil3999" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/_sahil_syed/tagged/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/sahil-syed-3209b0190" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -35,7 +35,7 @@
                          <li><a href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/injam-praveen-kumar-82b896151" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -51,10 +51,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=18uSb0nzUL6rBd1_IGPt7yuvd6X8Pxiyc">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/pavan.cherukuri99" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/cherukuri-pavan-sri-sai-813a82145" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -76,10 +76,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1eu7wnxyQ65TFfVvpG4pC71AgWmT5x9nC">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100007885389982" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/subham-kumar-5aa2077b" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -98,7 +98,7 @@
                     <div class="pic">
                         <img src="https://drive.google.com/uc?id=1eP8su-KlMaPMK8yLws0C5ubXU2Ib4Z4x">
                         <ul class="social">
-                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/ketankumar.patel.1656" class="fa fa-facebook"></a></li>
                             <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                             <li><a href="#" class="fa fa-instagram"></a></li>
                             <li><a href="#" class="fa fa-linkedin"></a></li>

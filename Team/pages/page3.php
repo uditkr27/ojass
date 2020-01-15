@@ -11,10 +11,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1IAcSYiLXn0rtvMmTlq8YRz2kbbnW5R-L">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/shubham.gaurav.129" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/propitious_pride/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/shubham-gaurav-140603153" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -32,10 +32,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=126ggWcZf0H9-30wdneOOg3OEZx1m_qoF">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/nidhaan.agarwal.5" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/nidhaan-agarwal-758115131" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -51,10 +51,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1Xen_zyIV596tmTahHNUHAf1gbgdAVxOg">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/sachin.sourav.9" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/sachin-sourav-b89727161" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">

@@ -11,10 +11,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1gSYHc8Q6TVTlDn_CJSGQwiH1Uk4tvjuL">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/pratik.singh.9887" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/_pratik__singh_/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/pratik-singh-6163a1151" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -29,12 +29,12 @@
     <div style="margin:10px;width:220px;">
              <div class="our-team">
                  <div class="pic">
-                     <img src="https://drive.google.com/uc?id=19qkFRZQTLTEDxKCRvDWs-Vr1vnrYe7RX">
+                     <img src="https://drive.google.com/uc?id=1PAwBlnsbweBX6jHw57rK9li9LA5M13VB">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/iampratikranjan" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/_the_hopeless_romantic_/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/impr2611/" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -51,10 +51,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1SXLoCvnSyxf5UVvJ7wKB4iLiV65Rv2Hg">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://m.facebook.com/d4danton" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/d4danton/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/sudhanshu-prakash-a05661158" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">

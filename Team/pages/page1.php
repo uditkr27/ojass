@@ -33,10 +33,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1xSU1XPXYAB6Sg3QWScNZjK7fWvy28irU">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/onkar.kumar.7503" class="fa fa-facebook"></a></li>
                           <!-- <li><a href="#" class="fa fa-twitter"></a></li>  -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/onkar-kumar-71404214a" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -80,10 +80,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1SY4p_13nnAco7xsoghWFAjfTPGKmCUOW">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/jeetkumaryadav" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://instagram.com/zee.it?igshid=zob3ap5pv5t" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/jeet-kumar-yadav-3978a9155" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -99,10 +99,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1l1Nfbw28CneAXQJFd1jES4yUDMXOBaL1">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/polluri.chaitanyaprakash" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/p__c_p/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/chaitanyapoluri" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -120,10 +120,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1q4v6oGT3OKlDsSVCgNClLLiCvAkxtpki">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="#" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="#" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="#" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -143,10 +143,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1H6776rYiDujdztRMEg0qOhAZvqAPdpjP">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/anurag.k.bhardwaj1" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/anuragkr98/?hl=en" class="fa fa-instagram"></a></li>
+                         <li><a  target="_blank" href="https://www.linkedin.com/in/anurag-kumar-b1918b140" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -163,10 +163,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1w2SVWHQY4Ay2yFZc0Up_Y4JK-0TC3fVs">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100009259789749" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="#" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/dheeravath-ganesh-416836165" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
@@ -183,10 +183,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1JotKoYOGpmVuuh0csCu6-PKwVSfRmCXu">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://m.facebook.com/akshay.akshit.3" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
-                         <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.instagram.com/akshay.akshit/" class="fa fa-instagram"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/mwlite/me" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">

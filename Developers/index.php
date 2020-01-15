@@ -22,13 +22,15 @@
 <body>
       <div id="wrap">
             <div id="showcase">
-                  <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="Alison" class="cloud9-item">
+                  <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="vivek" class="cloud9-item">
                  <!-- <img src="Adam.png" alt="Adam" class="cloud9-item">
                   <img src="Amy.png" alt="Amy" class="cloud9-item">-->
                   <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="Blake" class="cloud9-item">
                   <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="Angela" class="cloud9-item">
-                  <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="Claire" class="cloud9-item">
-
+                 
+                  <img src="https://drive.google.com/uc?id=1qG0JYjakgjkcv5KMKxupB8PHSjUXUPAp" alt="777" class="cloud9-item">
+                  
+                  <!-- <img src="Developers/pic-3.png" alt="Udit" class="cloud9-item"> -->
                   <!-- <img src="Blake.png" alt="Blake" class="cloud9-item">
                   <img src="Angela.png" alt="Angela" class="cloud9-item">
                   <img src="Claire.png" alt="Claire" class="cloud9-item">

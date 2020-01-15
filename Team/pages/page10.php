@@ -11,10 +11,10 @@
                  <div class="pic">
                      <img src="https://drive.google.com/uc?id=1LdwC9yY0FF4nj73RL_3xUPQVRiZJ7IhE">
                      <ul class="social">
-                         <li><a href="#" class="fa fa-facebook"></a></li>
+                         <li><a target="_blank" href="https://www.facebook.com/sandeep.yadav.54379" class="fa fa-facebook"></a></li>
                          <!-- <li><a href="#" class="fa fa-twitter"></a></li> -->
                          <li><a href="#" class="fa fa-instagram"></a></li>
-                         <li><a href="#" class="fa fa-linkedin"></a></li>
+                         <li><a target="_blank" href="https://www.linkedin.com/in/sandeep-yadav-603295191" class="fa fa-linkedin"></a></li>
                      </ul>
                  </div>
                  <div class="team-content">
