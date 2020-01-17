@@ -62,6 +62,116 @@
     z-index: 2;
 }
 
+
+
+.our-dir{
+      border: 2px solid #1E90FF;
+      border-radius: 10px;
+      text-align: center;
+      margin: 10px;
+      z-index: 1;
+      position: relative;
+  }
+
+  .our-dir:before,
+  .our-dir:after{
+      content: "";
+      width: 100%;
+      height: 104%;
+      background: #1E90FF;
+      position: absolute;
+      top: 50%;
+      left: 0;
+      z-index: -1;
+      transform: translateY(-50%) scaleX(0.3);
+      transition: all 0.3s ease 0s;
+  }
+
+  .our-dir:after{
+      width: 106%;
+      left: 50%;
+      transform: translate(-50%, -50%) scaleY(0.25);
+  }
+
+  .our-dir:hover:before{ transform: translateY(-50%) scaleX(0.7); }
+
+  .our-dir:hover:after{ transform: translate(-50%, -50%) scaleY(0.7); }
+
+  .our-dir img{
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      transition: all 0.3s ease 0s;
+  }
+
+  .our-dir .dir-content{
+      width: 93%;
+      padding: 25px 0 10px;
+      background: #1E90FF;
+      position: absolute;
+      bottom: 50px;
+      left: 50%;
+      opacity: 0;
+      -webkit-clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+      clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+      transform: translateX(-50%);
+      transition: all 0.3s cubic-bezier(0.5, 0.2,0.1,0.9);
+  }
+
+  .our-dir:hover .dir-content{
+      bottom: 10px;
+      opacity: 1;
+  }
+
+  .our-dir .title{
+      font-size: 25px;
+      font-weight: 600;
+      color: #fff;
+      letter-spacing: 1px;
+      text-transform: capitalize;
+      margin: 0;
+  }
+
+  .our-dir .post{
+      display: block;
+      font-size: 16px;
+      color: #fff;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+  }
+
+  .our-dir .social{
+      padding: 0;
+      margin: 0;
+      list-style: none;
+  }
+
+  .our-dir .social li{
+      display: inline-block;
+      margin: 0 5px;
+  }
+
+  .our-dir .social li a{
+      display: block;
+      width: 35px;
+      height: 35px;
+      line-height: 35px;
+      border-radius: 50%;
+      background: #fff;
+      font-size: 20px;
+      color: #1E90FF;
+      transition: all 0.3s ease 0s;
+  }
+
+  .our-dir .social li a:hover{
+      background: linear-gradient(to bottom,#1E90FF, darkred);
+      box-shadow: 0 0 0 5px rgba(255,255,255,0.3);
+      color: #fff;
+  }
+
+  @media only screen and (max-width: 990px){
+      .our-dir{ margin-bottom: 30px; }
+  }
 </style>
 
 
@@ -803,6 +913,58 @@
       </div>
 
     </section><!-- #portfolio2 Workshops-->
+
+
+
+    
+    <!--==========================
+      Director & PI Section ````
+    ============================-->
+
+    <section>
+    <header class="section-header">
+          <h3 class="section-title">DIRECTOR & PROFESSOR-INCHARGE</h3>
+
+        </header>
+
+    <div class="container mt-4">
+      <div class="row" style="display:flex;justify-content:space-around;">
+       <div class="col-md-4 col-sm-6">
+           <div class="our-dir">
+               <img src="img/guest/guest1.jpg">
+               <div class="dir-content">
+                   <h3 class="title">Karunesh Shukla</h3>
+                   <span class="post">Director</span>
+                   <ul class="social">
+                       <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                       <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                       <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                   </ul>
+               </div>
+           </div>
+       </div>
+       <div class="col-md-4 col-sm-6">
+           <div class="our-dir">
+               <img src="img/guest/guest1.jpg">
+               <div class="dir-content">
+                   <h3 class="title">Sarvesh Mishra</h3>
+                   <span class="post">PROFESSOR-INCHARGE</span>
+                   <ul class="social">
+                       <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                       <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                       <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                   </ul>
+               </div>
+           </div>
+       </div>
+   </div>
+    </div>
+
+
+
+
+
+    </section>
 
 
 
