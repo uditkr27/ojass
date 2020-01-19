@@ -8,6 +8,8 @@ html, body {
 body {
       color: #fff;
       background: url(326.jpg) no-repeat 50% 50%;
+      height: 100%;
+      background-position: center;
       background-size: cover;
       overflow-x: hidden;
 }
